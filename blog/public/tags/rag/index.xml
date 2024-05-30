@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RAG on Maneesh Reddy</title>
+    <link>http://localhost:1313/archie/tags/rag/</link>
+    <description>Recent content in RAG on Maneesh Reddy</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Athul</copyright>
+    <lastBuildDate>Sat, 20 Apr 2024 02:01:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/archie/tags/rag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ray Peat AI</title>
+      <link>http://localhost:1313/archie/posts/raypeatai/</link>
+      <pubDate>Sat, 20 Apr 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/archie/posts/raypeatai/</guid>
+      <description>AI finetuned on Ray Peat wisdom! Coming soon</description>
+    </item>
+    <item>
+      <title>YouTube RAG</title>
+      <link>http://localhost:1313/archie/posts/youtuberag/</link>
+      <pubDate>Mon, 01 Apr 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/archie/posts/youtuberag/</guid>
+      <description>Simple RAG application to query a YouTube video. Involves transcribing video to text with Whisper, splitting text into chunks, storing the chunks in a cloud vector database like Pinecone and then retrieving relevant chunk from database based on similarity of chunk&amp;rsquo;s embedding to question&amp;rsquo;s embedding, after which the chunk&amp;rsquo;s sent to the Gemini API for an answer.</description>
+    </item>
+  </channel>
+</rss>
